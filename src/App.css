@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Inter, sans-serif; 
-  height: 90vh;
+  height: auto;
   width: 100vw;
 }
 
  .container {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 25%;
   height: auto;
   border: 1px solid black;
   color: black;
@@ -19,14 +19,16 @@ body {
 }
 
 .header {
-  
   color: rgb(63, 107, 92);
   text-align: center;
+  /* margin-bottom: 1%; */
 }
 
 img {
   width: 100%;
   box-shadow:0 4px #88888838;
+  height: 67%;
+  margin-bottom: 0;
 }
 
 .header > h3,p{
@@ -34,21 +36,29 @@ line-height: 0.5em;
 font-size:  smaller;
 }
 
-.Main {
-  padding: 2%;
-  margin: 3%;
+.fullstack {
+  text-transform: uppercase;
+}
+
+.main {
   text-align: justify;
+  padding: 3%;
+  margin:3%;
 }
 
 .upper {
  font-size: medium;
   text-transform: uppercase;
   line-height: 1.1em;
+  color: rgb(63, 107, 92);
+
 
 }
 .Main, p {
   line-height: 1em;
   padding-bottom: 1.2em;
+  color: rgb(65, 68, 66);
+
 }
 
 .footer {

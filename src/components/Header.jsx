@@ -7,7 +7,7 @@ export default function Header() {
         <h2>
             Christine Deneschuk
         </h2>
-        <h3>
+        <h3 className="fullstack">
             Full Stack Developer
         </h3>
         <p>https://genuine-licorice-99a32a.netlify.app/</p>
