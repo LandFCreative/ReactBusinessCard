@@ -4,10 +4,10 @@ export default function Main() {
     return ( 
         <div className="Main">
     <h2 className="upper">About</h2>
-    <p> Full stack developer that focuses on the perfect combination of beauty an functionality. Language skills include: HTML/CSS, react, javascript, SQL, MongoDB </p>
+    <p> Full stack developer that focuses on the perfect combination of beauty and functionality. With a love for problem solving and a very detailed personality; building programs and designing UX/UI is the perfect combination of ying and yang for Christine. Language skills include: HTML/CSS, React, Javascript, SQL, MongoDB, Node, Figma, Adobe Suite.</p>
     <h2 className="upper">Interests</h2>
-    <p> Christine is interested in the world around her. A chronic traveler at heart with 43 countries under her belt.
-        When she is at home, she loves spending time with her dog and enjoying the wonderful outdoor gifts her home has to offer, such as snowboarding, hiking, Paddle Boarding. </p>
+    <p> Christine is interested in the world around her. She has a love of travelling with 43 countries under her belt.
+        When she is at home, she prefers to spend time with her dog, and enjoying the outdoors, such as snowboarding, exploring, paddle boarding. </p>
     
         </div>
     )
