@@ -25,15 +25,17 @@ body {
 }
 
 img {
+  object-fit:fill;
+  height: 6rem;
   width: 100%;
   box-shadow:0 4px #88888838;
-  height: 67%;
   margin-bottom: 0;
 }
 
 .header > h3,p{
 line-height: 0.5em;
 font-size:  smaller;
+
 }
 
 .fullstack {
@@ -43,7 +45,7 @@ font-size:  smaller;
 .main {
   text-align: justify;
   padding: 3%;
-  margin:3%;
+  margin:-top: 0;
 }
 
 .upper {

@@ -1,9 +1,11 @@
 import React from "react"
+import Image from "/src/assets/kierunsplash.jpg";
+
 
 export default function Header() {
     return ( 
     <div className="header">
-        <img src="kierunsplash.jpg" alt="photo of christine" />
+        <img src={ Image } alt="" />
         <h2>
             Christine Deneschuk
         </h2>
